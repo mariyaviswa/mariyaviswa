@@ -11,6 +11,18 @@
 - **B.Sc. Mathematics** *(2020 – 2023)*
 
 ---
+## 💼 Career Objective
+
+I'm actively seeking **internship** or **full-time opportunities** where I can apply my skills in:
+
+- Data Engineer / Data Analyst
+- ML Engineer
+- AI Research Analyst
+- Python/SQL Developer
+
+With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m passionate about solving real-world problems by designing and deploying **scalable, AI-powered solutions**.
+
+---
 
 ## 📚 Tech Stack
 
