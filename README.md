@@ -16,9 +16,9 @@
 I'm actively seeking **internship** or **full-time opportunities** where I can apply my skills in:
 
 - Data Engineer / Data Analyst
+- Python/SQL Developer
 - ML Engineer
 - AI Research Analyst
-- Python/SQL Developer
 
 With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m passionate about solving real-world problems by designing and deploying **scalable, AI-powered solutions**.
 
