@@ -7,8 +7,8 @@
 
 ### 🎓 Education
 
-- **M.Sc. Artificial Intelligence & Data Science** *(2023 – 2025)*  
-- **B.Sc. Mathematics** *(2020 – 2023)*
+- **M.Sc. Artificial Intelligence & Data Science** *(2023 – 2025)*, *CGPA - 8.76*
+- **B.Sc. Mathematics** *(2020 – 2023)*, *CGPA - 9.33*
 
 ---
 ## 💼 Career Objective
