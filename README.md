@@ -28,9 +28,9 @@ With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m 
 
 <section>
   <ul>
-    <li><strong>Languages:</strong> Python, SQL, Java, PySpark</li>
+    <li><strong>Languages:</strong> Python, SQL, PySpark, Java</li>
     <li><strong>Libraries &amp; Frameworks:</strong> Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, TorchVision, Transformers, OpenCV, Gradio, Streamlit</li>
-    <li><strong>Databases:</strong> MySQL, MS SQL, Databricks</li>
+    <li><strong>Databases:</strong> MySQL, MS SQL, Databricks, DBeaver</li>
     <li><strong>Visualization:</strong> Tableau, Power BI</li>
     <li><strong>Developer Tools:</strong> Git, Docker, PyCharm, Jupyter Notebook, VS Code, IntelliJ IDEA</li>
   </ul>
@@ -59,10 +59,11 @@ With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m 
 
 ## 📜 Certifications
 
-- Cisco – *Introduction to Data Science*  
-- Nvidia – *Disaster Risk Monitoring Using Satellite Imagery*  
+- Databricks - *Databricks lakehouse fundamentals*
+- Nvidia – *Disaster Risk Monitoring Using Satellite Imagery* 
+- Cisco – *Introduction to Data Science*   
 - Infosys-Springboard – *Introduction to Deep Learning*  
-- HackerRank – *Python*, *SQL* (5⭐)
+- HackerRank – *Python*, *SQL*
 
 ---
 
