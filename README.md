@@ -32,7 +32,7 @@ With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m 
     <li><strong>Libraries &amp; Frameworks:</strong> Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, TorchVision, Transformers, OpenCV, Gradio, Streamlit</li>
     <li><strong>Databases:</strong> MySQL, MS SQL, Databricks, DBeaver</li>
     <li><strong>Visualization:</strong> Tableau, Power BI</li>
-    <li><strong>Developer Tools:</strong> Git, Docker, PyCharm, Jupyter Notebook, VS Code, IntelliJ IDEA</li>
+    <li><strong>Developer Tools:</strong> Git, Docker, PyCharm, Jupyter Notebook, VS Code, IntelliJ IDEA, DBeaver</li>
   </ul>
 </section>
 
