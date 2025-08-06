@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 <p style="text-align: justify; font-size: 12 px;">
-  Hi there! I'm a passionate and results-driven <strong>Data Analyst</strong> and aspiring <strong>Data Engineer</strong> with a strong foundation in <strong>Artificial Intelligence and Data Science</strong>. I thrive on transforming raw data into actionable insights using tools such as <strong>SQL</strong>, <strong>Python</strong>, and <strong>machine learning</strong> techniques. With hands-on experience in building real-world solutions, I specialize in <strong>data analysis</strong>, <strong>pipeline development</strong>, <strong>deep learning</strong>, and <strong>interactive dashboards</strong>. My work spans various domains, including <strong>image processing</strong>, <strong>NLP</strong>, and <strong>data visualization</strong>, utilizing platforms such as <strong>Tableau</strong> and <strong>Power BI</strong>.
+  Dynamic and results-oriented <strong>Data Engineer & Data Analyst</strong> with a solid academic background in Artificial Intelligence and Data Science. Proficient in <strong>Python, SQL, and PySpark,</strong> with practical experience in data <strong>pipeline creation, ETL workflows, and Relational DataBase Management Systems</strong>. Experienced in converting raw data into actionable insights through exploratory data analysis, machine learning, and deploying real-world ML models. Skilled in creating interactive dashboards using Tableau and Power BI to support business decision-making.
 </p>
 
 ### 🎓 Education
@@ -28,11 +28,12 @@ With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m 
 
 <section>
   <ul>
-    <li><strong>Languages:</strong> Python, SQL, PySpark, Java</li>
-    <li><strong>Libraries &amp; Frameworks:</strong> Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, TorchVision, Transformers, OpenCV, Gradio, Streamlit</li>
-    <li><strong>Databases:</strong> MySQL, MS SQL, Databricks, DBeaver</li>
+    <li><strong>Languages:</strong> Python, SQL, PySpark, Scala</li>
+    <li><strong>Big Data & Cloud Tools:</strong> PySpark, Apache Spark, Databricks, BigQuery, Snowflake, DBT, Apache Airflow</li>
+    <li><strong>Libraries &amp; Frameworks:</strong> Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Gradio, Streamlit</li>
+    <li><strong>Databases:</strong> MySQL, MS SQL</li>
     <li><strong>Visualization:</strong> Tableau, Power BI</li>
-    <li><strong>Developer Tools:</strong> Git, Docker, PyCharm, Jupyter Notebook, VS Code, IntelliJ IDEA, DBeaver</li>
+    <li><strong>Developer Tools:</strong> Git, PyCharm, Jupyter Notebook, VS Code, IntelliJ IDEA, DBeaver</li>
   </ul>
 </section>
 
@@ -40,11 +41,11 @@ With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m 
 
 ## 🗂️ Key Projects
 
-- 🖼️ **Image Style Transfer**  
-  Real-time style transfer app using Vision Transformer and PyTorch, deployed via Gradio for live user interaction.
-
 - 🫀 **Heart Disease Prediction Web App**  
   Trained a Random Forest model with 86% accuracy and built an interactive Gradio-based UI with PDF report generation.
+
+- 🖼️ **Image Style Transfer**  
+  Real-time style transfer app using Vision Transformer and PyTorch, deployed via Gradio for live user interaction.
 
 - 📊 **FIFA World Cup & FDI Data Analysis**  
   Created dynamic Tableau dashboards and extracted meaningful insights from global datasets.
