@@ -20,7 +20,7 @@ I'm actively seeking **internship** or **full-time opportunities** where I can a
 - ML Engineer
 - AI Research Analyst
 
-With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m passionate about solving real-world problems by designing and deploying **scalable, AI-powered solutions**.
+With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m passionate about solving real-world problems by designing and deploying **scalable, Data-Driven solutions**.
 
 ---
 
