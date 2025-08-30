@@ -70,9 +70,9 @@ With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m 
 
 ## 🏆 Achievements
 
-- 🥇 1st Place – Coding competition at Karunya University (Team Leader)  
-- 🎓 Ranked 2nd in department with 8.83 CGPA (Odd Semester 2023–24)  
-- 🌟 5-Star in Problem Solving and Python on HackerRank
+- 🥇 Achieved 1st place in a coding competition at Karunya University- Team Lead (5 members)  
+- 🌟 Achieved 5-star rating on HackerRank.  
+- ✅ Solved more than 1000 coding problems
 
 ---
 
