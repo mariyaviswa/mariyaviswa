@@ -64,7 +64,7 @@ With a strong foundation in **Python**, **SQL**, and analytical thinking, I’m 
 - Nvidia – *Disaster Risk Monitoring Using Satellite Imagery* 
 - Cisco – *Introduction to Data Science*   
 - Infosys-Springboard – *Introduction to Deep Learning*  
-- HackerRank – *Python*, *SQL*
+- HackerRank – *Python*, *SQL (Advanced)*
 
 ---
 
